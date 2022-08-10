@@ -7,7 +7,7 @@ Maak in je boekhouding een nieuwe Koppeling met "Maatwerk" en vul die key hieron
 > python3 get-bearer-key.py
 
 De Bearer key staat dan in bearerkey.json
-Bearer key is 1 uur geldig (!)
+Bearer key is 1 uur geldig (!) 
 
 """
 
