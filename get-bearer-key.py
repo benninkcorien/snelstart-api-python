@@ -17,8 +17,6 @@ SNELSTART_MAATWERK_KOPPELING_KEY = "VUL HIER DE MAATWERK KOPPELING KEY IN"
 
 headers = {"Content-Type": "application/x-www-form-urlencoded"}
 
-print(headers.items())
-
 body = f"grant_type=clientkey&clientkey={SNELSTART_MAATWERK_KOPPELING_KEY}"
 
 
