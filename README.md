@@ -7,7 +7,7 @@ Python scripts waarmee je verschillende info uit de Snelstart API kan ophalen.
 
 Maak een maatwerk koppeling aan in je boekhouding, je krijgt dan een key. (maatwerk key)
 
-Vul de maatwerk key in bij SNELSTART*MAATWERK_KOPPELING_KEY in \_get-bearer-key.py*
+Vul de maatwerk key in bij SNELSTART_MAATWERK_KOPPELING_KEY in script _get-bearer-key.py_
 
     python get-bearer-key.py
     # slaat de response van de server als lokaal json bestand op zodat je de bearer key daar uit kan halen
